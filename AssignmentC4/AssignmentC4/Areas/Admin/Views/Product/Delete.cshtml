@@ -1,0 +1,71 @@
+﻿@model AssignmentC4.Areas.Admin.Models.Product
+@{
+    ViewData["Title"] = "Xóa Sản Phẩm";
+}
+
+<div class="row mb-3">
+    <div class="col-md-12">
+        <h2><i class="fas fa-trash"></i> Xóa Sản Phẩm</h2>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-action="Index">Sản Phẩm</a></li>
+                <li class="breadcrumb-item active">Xóa</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<div class="alert alert-danger" role="alert">
+    <i class="fas fa-exclamation-triangle"></i>
+    <strong>Cảnh báo!</strong> Bạn có chắc chắn muốn xóa sản phẩm này không?
+</div>
+
+<div class="card shadow">
+    <div class="card-body">
+        <h4>Thông tin sản phẩm:</h4>
+        <hr>
+
+        <div class="row">
+            <div class="col-md-3">
+                @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                {
+                    <img src="@Model.ImageUrl" alt="@Model.Name" class="img-fluid img-thumbnail" />
+                }
+            </div>
+
+            <div class="col-md-9">
+                <dl class="row">
+                    <dt class="col-sm-3">Tên sản phẩm:</dt>
+                    <dd class="col-sm-9">@Model.Name</dd>
+
+                    <dt class="col-sm-3">Mã sản phẩm:</dt>
+                    <dd class="col-sm-9">@Model.Code</dd>
+
+                    <dt class="col-sm-3">Hãng:</dt>
+                    <dd class="col-sm-9">@Model.BrandName</dd>
+
+                    <dt class="col-sm-3">Giá:</dt>
+                    <dd class="col-sm-9">@Model.Price.ToString("N0") VNĐ</dd>
+
+                    <dt class="col-sm-3">Số lượng:</dt>
+                    <dd class="col-sm-9">@Model.Stock</dd>
+
+                    <dt class="col-sm-3">Danh mục:</dt>
+                    <dd class="col-sm-9">@Model.Category</dd>
+                </dl>
+            </div>
+        </div>
+
+        <hr>
+
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="Id" />
+            <button type="submit" class="btn btn-danger">
+                <i class="fas fa-trash"></i> Xác Nhận Xóa
+            </button>
+            <a asp-action="Index" class="btn btn-secondary">
+                <i class="fas fa-times"></i> Hủy
+            </a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,241 @@
+﻿/* ==========================================
+   Admin CSS - Fixed Version
+   ========================================== */
+
+:root {
+    --sidebar-width: 260px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fc;
+    overflow-x: hidden;
+}
+
+/* Wrapper */
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+    min-height: 100vh;
+}
+
+/* Sidebar */
+#sidebar {
+    min-width: var(--sidebar-width);
+    max-width: var(--sidebar-width);
+    min-height: 100vh;
+    transition: all 0.3s;
+    position: relative;
+    z-index: 100;
+}
+
+    #sidebar.active {
+        margin-left: calc(-1 * var(--sidebar-width));
+    }
+
+    #sidebar .sidebar-header {
+        background: #343a40;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    #sidebar ul.components {
+        padding: 0;
+        list-style: none;
+    }
+
+    #sidebar ul li {
+        margin: 0.5rem 0;
+        position: relative;
+    }
+
+        /* ✅ FIX: Links phải có pointer và z-index cao */
+        #sidebar ul li a {
+            padding: 12px 15px;
+            font-size: 1rem;
+            display: block;
+            color: #adb5bd !important;
+            text-decoration: none !important;
+            transition: all 0.3s;
+            border-radius: 5px;
+            cursor: pointer !important;
+            position: relative;
+            z-index: 10;
+        }
+
+            #sidebar ul li a:hover {
+                color: #fff !important;
+                background: rgba(255, 255, 255, 0.1);
+                text-decoration: none !important;
+            }
+
+            #sidebar ul li.active > a,
+            #sidebar ul li a:active,
+            #sidebar ul li a:focus {
+                color: #fff !important;
+                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+                text-decoration: none !important;
+            }
+
+            #sidebar ul li a i {
+                margin-right: 10px;
+                width: 20px;
+                text-align: center;
+            }
+
+/* Content */
+#content {
+    width: 100%;
+    min-height: 100vh;
+    transition: all 0.3s;
+    position: relative;
+}
+
+    #content.active {
+        width: 100%;
+    }
+
+/* Navbar */
+.navbar {
+    padding: 15px;
+    background: #fff;
+    border-bottom: 1px solid #e3e6f0;
+}
+
+/* Cards */
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15);
+    margin-bottom: 1.5rem;
+}
+
+.card-header {
+    background-color: #f8f9fc;
+    border-bottom: 1px solid #e3e6f0;
+    padding: 0.75rem 1.25rem;
+}
+
+.border-left-primary {
+    border-left: 4px solid #4e73df !important;
+}
+
+.border-left-success {
+    border-left: 4px solid #1cc88a !important;
+}
+
+.border-left-info {
+    border-left: 4px solid #36b9cc !important;
+}
+
+.border-left-warning {
+    border-left: 4px solid #f6c23e !important;
+}
+
+/* Table */
+.table {
+    color: #858796;
+}
+
+    .table thead th {
+        border-bottom: 2px solid #dee2e6;
+        font-weight: 600;
+        color: #5a5c69;
+        text-transform: uppercase;
+        font-size: 0.85rem;
+        vertical-align: middle;
+    }
+
+    .table td {
+        vertical-align: middle;
+    }
+
+.table-hover tbody tr:hover {
+    background-color: #f8f9fc;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 5px;
+    font-weight: 500;
+    cursor: pointer !important;
+}
+
+    .btn:hover {
+        cursor: pointer !important;
+    }
+
+.btn-primary {
+    background-color: #4e73df;
+    border-color: #4e73df;
+}
+
+    .btn-primary:hover {
+        background-color: #2e59d9;
+        border-color: #2653d4;
+    }
+
+/* Badges */
+.badge {
+    padding: 0.35rem 0.65rem;
+    font-weight: 500;
+    font-size: 0.75rem;
+}
+
+/* Forms */
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #d1d3e2;
+}
+
+    .form-control:focus {
+        border-color: #667eea;
+        box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.25);
+    }
+
+/* Alerts */
+.alert {
+    border-radius: 5px;
+    border: none;
+}
+
+/* Text colors */
+.text-gray-800 {
+    color: #5a5c69 !important;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: calc(-1 * var(--sidebar-width));
+    }
+
+        #sidebar.active {
+            margin-left: 0;
+        }
+
+    #content {
+        width: 100%;
+    }
+}
+
+/* ✅ IMPORTANT: Ensure all links are clickable */
+a {
+    cursor: pointer !important;
+}
+
+    a:hover {
+        text-decoration: none !important;
+    }
+
+/* Fix z-index issues */
+.wrapper > * {
+    position: relative;
+}

@@ -1,0 +1,208 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Admin Panel</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <!-- Admin CSS -->
+    <link rel="stylesheet" href="~/css/admin.css" />
+</head>
+<body>
+    <div class="wrapper">
+        <!-- Sidebar -->
+        <nav id="sidebar" class="bg-dark">
+            <div class="sidebar-header bg-primary text-white p-3">
+                <h3><i class="fas fa-shoe-prints"></i> Admin Panel</h3>
+            </div>
+
+            <ul class="list-unstyled components p-3">
+                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Home" ? "active" : "")">
+                    <a asp-area="Admin" asp-controller="Home" asp-action="Index">
+                        <i class="fas fa-tachometer-alt"></i> Dashboard
+                    </a>
+                </li>
+                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Product" ? "active" : "")">
+                    <a asp-area="Admin" asp-controller="Product" asp-action="Index">
+                        <i class="fas fa-box"></i> Quản Lý Sản Phẩm
+                    </a>
+                </li>
+                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Brand" ? "active" : "")">
+                    <a asp-area="Admin" asp-controller="Brand" asp-action="Index">
+                        <i class="fas fa-tag"></i> Quản Lý Hãng Giày
+                    </a>
+                </li>
+                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Order" ? "active" : "")">
+                    <a asp-area="Admin" asp-controller="Order" asp-action="Index">
+                        <i class="fas fa-shopping-cart"></i> Quản Lý Đơn Hàng
+                    </a>
+                </li>
+                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Report" ? "active" : "")">
+                    <a asp-area="Admin" asp-controller="Report" asp-action="Index">
+                        <i class="fas fa-chart-line"></i> Báo Cáo Doanh Thu
+                    </a>
+                </li>
+                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "News" ? "active" : "")">
+                    <a asp-area="Admin" asp-controller="News" asp-action="Index">
+                        <i class="fas fa-newspaper"></i> Quản Lý Tin Tức
+                    </a>
+                </li>
+                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Contact" ? "active" : "")">
+                    <a asp-area="Admin" asp-controller="Contact" asp-action="Index">
+                        <i class="fas fa-envelope"></i> Liên Hệ
+                    </a>
+                </li>
+                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Account" ? "active" : "")">
+                    <a asp-area="Admin" asp-controller="Account" asp-action="Index">
+                        <i class="fas fa-users"></i> Quản Lý Tài Khoản
+                    </a>
+                </li>
+                <li class="mt-4">
+                    <a asp-area="User" asp-controller="Home" asp-action="Index" class="text-success">
+                        <i class="fas fa-home"></i> Về Trang Chủ
+                    </a>
+                </li>
+                <li>
+                    <a href="#" class="text-danger">
+                        <i class="fas fa-sign-out-alt"></i> Đăng Xuất
+                    </a>
+                </li>
+            </ul>
+            @* <ul class="list-unstyled components p-3">
+                <li>
+                    <a href="/Admin/Home/Index" style="cursor: pointer; color: #adb5bd; display: block; padding: 12px 15px;">
+                        <i class="fas fa-tachometer-alt"></i> Dashboard
+                    </a>
+                </li>
+                <li>
+                    <a href="/Admin/Product/Index" style="cursor: pointer; color: #adb5bd; display: block; padding: 12px 15px;">
+                        <i class="fas fa-box"></i> Quản Lý Sản Phẩm
+                    </a>
+                </li>
+                <li>
+                    <a href="/Admin/Brand/Index" style="cursor: pointer; color: #adb5bd; display: block; padding: 12px 15px;">
+                        <i class="fas fa-tag"></i> Quản Lý Hãng Giày
+                    </a>
+                </li>
+                <li>
+                    <a href="/Admin/Order/Index" style="cursor: pointer; color: #adb5bd; display: block; padding: 12px 15px;">
+                        <i class="fas fa-shopping-cart"></i> Quản Lý Đơn Hàng
+                    </a>
+                </li>
+                <li>
+                    <a href="/Admin/Report/Index" style="cursor: pointer; color: #adb5bd; display: block; padding: 12px 15px;">
+                        <i class="fas fa-chart-line"></i> Báo Cáo Doanh Thu
+                    </a>
+                </li>
+                <li>
+                    <a href="/Admin/News/Index" style="cursor: pointer; color: #adb5bd; display: block; padding: 12px 15px;">
+                        <i class="fas fa-newspaper"></i> Quản Lý Tin Tức
+                    </a>
+                </li>
+                <li>
+                    <a href="/Admin/Contact/Index" style="cursor: pointer; color: #adb5bd; display: block; padding: 12px 15px;">
+                        <i class="fas fa-envelope"></i> Liên Hệ
+                    </a>
+                </li>
+                <li>
+                    <a href="/Admin/Account/Index" style="cursor: pointer; color: #adb5bd; display: block; padding: 12px 15px;">
+                        <i class="fas fa-users"></i> Quản Lý Tài Khoản
+                    </a>
+                </li>
+                <li class="mt-4">
+                    <a href="/User/Home/Index" class="text-success" style="cursor: pointer; display: block; padding: 12px 15px;">
+                        <i class="fas fa-home"></i> Về Trang Chủ
+                    </a>
+                </li>
+            </ul> *@
+        </nav>
+
+        <!-- Page Content -->
+        <div id="content">
+            <!-- Top Navbar -->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+                <div class="container-fluid">
+                    <button type="button" id="sidebarCollapse" class="btn btn-primary">
+                        <i class="fas fa-bars"></i>
+                    </button>
+
+                    <div class="ml-auto d-flex align-items-center">
+                        <span class="mr-3">
+                            <i class="far fa-user-circle"></i> Admin User
+                        </span>
+                    </div>
+                </div>
+            </nav>
+
+            <!-- Main Content -->
+            <div class="container-fluid p-4">
+                @if (TempData["Success"] != null)
+                {
+                    <div class="alert alert-success alert-dismissible fade show" role="alert">
+                        <i class="fas fa-check-circle"></i> @TempData["Success"]
+                        <button type="button" class="close" data-dismiss="alert">
+                            <span>&times;</span>
+                        </button>
+                    </div>
+                }
+
+                @if (TempData["Error"] != null)
+                {
+                    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                        <i class="fas fa-exclamation-circle"></i> @TempData["Error"]
+                        <button type="button" class="close" data-dismiss="alert">
+                            <span>&times;</span>
+                        </button>
+                    </div>
+                }
+
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery - Giống User Layout -->
+    <script src="~/js/jquery.min.js"></script>
+    <!-- Popper -->
+    <script src="~/js/popper.min.js"></script>
+    <!-- Bootstrap 4.1 -->
+    <script src="~/js/bootstrap.min.js"></script>
+
+    <!-- Admin Script -->
+    <script>
+        $(document).ready(function () {
+            console.log("Admin panel loaded with jQuery:", $.fn.jquery);
+
+            // Sidebar toggle
+            $('#sidebarCollapse').on('click', function () {
+                console.log("Toggle sidebar");
+                $('#sidebar').toggleClass('active');
+                $('#content').toggleClass('active');
+            });
+
+            // Active menu highlighting
+            var currentPath = window.location.pathname;
+            console.log("Current path:", currentPath);
+
+            $('#sidebar a').each(function() {
+                var href = $(this).attr('href');
+                if (href && currentPath.indexOf(href) > -1) {
+                    $(this).parent('li').addClass('active');
+                    console.log("Active menu:", href);
+                }
+            });
+
+            // Log all menu links
+            $('#sidebar a').on('click', function(e) {
+                console.log("Menu clicked:", $(this).attr('href'));
+            });
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

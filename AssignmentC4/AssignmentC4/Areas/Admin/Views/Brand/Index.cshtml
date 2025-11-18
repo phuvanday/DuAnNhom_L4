@@ -1,0 +1,74 @@
+﻿@model IEnumerable<AssignmentC4.Areas.Admin.Models.Brand>
+@{
+    ViewData["Title"] = "Quản Lý Hãng Giày";
+}
+
+<div class="row mb-3">
+    <div class="col-md-6">
+        <h2><i class="fas fa-tag"></i> Quản Lý Hãng Giày</h2>
+    </div>
+    <div class="col-md-6 text-right">
+        <a asp-action="Create" class="btn btn-primary">
+            <i class="fas fa-plus"></i> Thêm Hãng Mới
+        </a>
+    </div>
+</div>
+
+<div class="card shadow">
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover">
+                <thead class="thead-light">
+                    <tr>
+                        <th>ID</th>
+                        <th>Logo</th>
+                        <th>Tên Hãng</th>
+                        <th>Mô Tả</th>
+                        <th>Trạng Thái</th>
+                        <th>Ngày Tạo</th>
+                        <th>Thao Tác</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null && Model.Any())
+                    {
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>
+                                    @if (!string.IsNullOrEmpty(item.LogoUrl))
+                                    {
+                                        <img src="@item.LogoUrl" alt="@item.Name" style="width: 50px; height: 50px; object-fit: contain;">
+                                    }
+                                </td>
+                                <td><strong>@item.Name</strong></td>
+                                <td>@item.Description</td>
+                                <td>
+                                    <span class="badge @(item.IsActive ? "badge-success" : "badge-secondary")">
+                                        @(item.IsActive ? "Hoạt động" : "Ngừng")
+                                    </span>
+                                </td>
+                                <td>@item.CreatedDate.ToString("dd/MM/yyyy")</td>
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">
+                                        <i class="fas fa-edit"></i>
+                                    </a>
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">
+                                        <i class="fas fa-trash"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="7" class="text-center">Chưa có hãng giày nào</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

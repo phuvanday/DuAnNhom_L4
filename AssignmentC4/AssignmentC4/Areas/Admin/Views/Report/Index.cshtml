@@ -1,0 +1,163 @@
+﻿@{
+    ViewData["Title"] = "Báo Cáo Doanh Thu";
+}
+
+<div class="row mb-3">
+    <div class="col-md-6">
+        <h2><i class="fas fa-chart-line"></i> Báo Cáo Doanh Thu</h2>
+    </div>
+    <div class="col-md-6 text-right">
+        <div class="btn-group">
+            <a asp-action="Index" asp-route-period="day" class="btn btn-sm @(ViewBag.Period == "day" ? "btn-primary" : "btn-outline-primary")">
+                Ngày
+            </a>
+            <a asp-action="Index" asp-route-period="week" class="btn btn-sm @(ViewBag.Period == "week" ? "btn-primary" : "btn-outline-primary")">
+                Tuần
+            </a>
+            <a asp-action="Index" asp-route-period="month" class="btn btn-sm @(ViewBag.Period == "month" ? "btn-primary" : "btn-outline-primary")">
+                Tháng
+            </a>
+            <a asp-action="Index" asp-route-period="year" class="btn btn-sm @(ViewBag.Period == "year" ? "btn-primary" : "btn-outline-primary")">
+                Năm
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xl-4 col-md-6 mb-4">
+        <div class="card border-left-success shadow h-100 py-2">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
+                            Tổng Doanh Thu
+                        </div>
+                        <div class="h5 mb-0 font-weight-bold text-gray-800">
+                            @ViewBag.TotalRevenue.ToString("N0") VNĐ
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xl-4 col-md-6 mb-4">
+        <div class="card border-left-info shadow h-100 py-2">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-info text-uppercase mb-1">
+                            Số Đơn Hàng
+                        </div>
+                        <div class="h5 mb-0 font-weight-bold text-gray-800">@ViewBag.TotalOrders</div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-shopping-cart fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xl-4 col-md-6 mb-4">
+        <div class="card border-left-warning shadow h-100 py-2">
+            <div class="card-body">
+                <div class="row no-gutters align-items-center">
+                    <div class="col mr-2">
+                        <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                            Giá Trị TB/Đơn
+                        </div>
+                        <div class="h5 mb-0 font-weight-bold text-gray-800">
+                            @ViewBag.AverageOrderValue.ToString("N0") VNĐ
+                        </div>
+                    </div>
+                    <div class="col-auto">
+                        <i class="fas fa-calculator fa-2x text-gray-300"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <div class="card shadow mb-4">
+            <div class="card-header">
+                <h5 class="mb-0">Biểu Đồ Doanh Thu</h5>
+            </div>
+            <div class="card-body">
+                <canvas id="revenueChart" width="100%" height="30"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-6">
+        <div class="card shadow mb-4">
+            <div class="card-header">
+                <h5 class="mb-0">Sản Phẩm Bán Chạy</h5>
+            </div>
+            <div class="card-body">
+                <p class="text-muted">Top 10 sản phẩm bán chạy nhất...</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-6">
+        <div class="card shadow mb-4">
+            <div class="card-header">
+                <h5 class="mb-0">Doanh Thu Theo Danh Mục</h5>
+            </div>
+            <div class="card-body">
+                <canvas id="categoryChart" width="100%" height="200"></canvas>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        // Revenue Chart
+        var ctx = document.getElementById('revenueChart').getContext('2d');
+        var revenueChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['T1', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7', 'T8', 'T9', 'T10', 'T11', 'T12'],
+                datasets: [{
+                    label: 'Doanh thu (VNĐ)',
+                    data: [12000000, 19000000, 15000000, 25000000, 22000000, 30000000, 28000000, 32000000, 29000000, 35000000, 33000000, 40000000],
+                    borderColor: 'rgb(75, 192, 192)',
+                    tension: 0.1
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // Category Chart
+        var ctx2 = document.getElementById('categoryChart').getContext('2d');
+        var categoryChart = new Chart(ctx2, {
+            type: 'doughnut',
+            data: {
+                labels: ['Giày Nam', 'Giày Nữ', 'Giày Trẻ Em'],
+                datasets: [{
+                    data: [45, 35, 20],
+                    backgroundColor: ['#4e73df', '#1cc88a', '#36b9cc']
+                }]
+            }
+        });
+    </script>
+}

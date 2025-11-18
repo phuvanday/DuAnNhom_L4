@@ -1,0 +1,72 @@
+﻿@model AssignmentC4.Areas.Admin.Models.Brand
+@{
+    ViewData["Title"] = "Chỉnh Sửa Hãng Giày";
+}
+
+<div class="row mb-3">
+    <div class="col-md-12">
+        <h2><i class="fas fa-edit"></i> Chỉnh Sửa Hãng Giày</h2>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-action="Index">Hãng Giày</a></li>
+                <li class="breadcrumb-item active">Chỉnh Sửa</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<div class="card shadow">
+    <div class="card-body">
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="Id" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Tên Hãng <span class="text-danger">*</span></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label">Mô Tả</label>
+                <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Logo Hiện Tại</label>
+                @if (!string.IsNullOrEmpty(Model.LogoUrl))
+                {
+                    <div>
+                        <img src="@Model.LogoUrl" alt="@Model.Name" style="max-width: 150px;" class="img-thumbnail" />
+                    </div>
+                }
+                <input type="file" name="logoFile" class="form-control-file mt-2" accept="image/*" />
+                <small class="form-text text-muted">Chọn logo mới nếu muốn thay đổi</small>
+            </div>
+
+            <div class="form-check mb-3">
+                <input asp-for="IsActive" class="form-check-input" type="checkbox" />
+                <label asp-for="IsActive" class="form-check-label">
+                    Hoạt động
+                </label>
+            </div>
+
+            <hr>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-save"></i> Cập Nhật
+                </button>
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="fas fa-times"></i> Hủy
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
