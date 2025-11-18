@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE HTML>
 <html>
 <head>
-	<title>Giày dép - Mẫu Bootstrap 4 miễn phí bởi Colorlib</title>
+	<title>Shop Giày Dép L4</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -46,7 +46,9 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-7 col-md-9">
-							<div id="colorlib-logo"><a href="index.html">Giày dép</a></div>
+							<div id="colorlib-logo">
+								<a asp-area="User" asp-controller="Home" asp-action="Index">Giày dép</a>
+							</div>
 						</div>
 						<div class="col-sm-5 col-md-3">
 							<form action="#" class="search-wrap">
@@ -68,7 +70,11 @@
 								<li><a asp-area="User" asp-controller="Home" asp-action="About">Giới thiệu</a></li>
 								<li><a asp-area="User" asp-controller="Contact" asp-action="Index">Liên hệ</a></li>
 								<li><a asp-area="User" asp-controller="Login" asp-action="Index">Đăng Nhập</a></li>
-								<li class="cart"><a asp-area="User" asp-controller="Cart" asp-action="Index"><i class="icon-shopping-cart"></i> Giỏ hàng [0]</a></li>
+								<li class="cart">
+									<a asp-area="User" asp-controller="Home" asp-action="Cart">
+										<i class="icon-shopping-cart"></i> Giỏ hàng [0]
+									</a>
+								</li>
 							</ul>
 
 
