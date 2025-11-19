@@ -1,8 +1,12 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using AssignmentC4.Areas.User.DB;
+using Microsoft.EntityFrameworkCore;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddDbContext<AssignmentC4_Context>(option =>
+option.UseSqlServer(builder.Configuration.GetConnectionString("YoLaConnection")));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -22,7 +26,7 @@ app.UseAuthorization();
 /// 🎯 Chuyển "/" về User/Home/Index
 app.MapGet("/", context =>
 {
-    context.Response.Redirect("/User/Home/Index");
+    context.Response.Redirect("/User");
     return Task.CompletedTask;
 });
 

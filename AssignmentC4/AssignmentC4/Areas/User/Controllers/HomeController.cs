@@ -1,23 +1,41 @@
-﻿using System.Diagnostics;
+﻿using AssignmentC4.Areas.User.DB;
 using AssignmentC4.Areas.User.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System.Diagnostics;
 
 namespace AssignmentC4.Areas.User.Controllers
 {
     [Area("User")]
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly AssignmentC4_Context _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(AssignmentC4_Context context)
         {
-            _logger = logger;
+            _context = context;
         }
 
         // ===== CÁC ACTION GỐC =====
         public IActionResult Index()
         {
-            return View();
+            var dsSanPham = _context.SanPham.ToList();
+            return View(dsSanPham);
+        }
+        public IActionResult ProductDetail(int id)
+        {
+            var chiTietSanPham = _context.SanPham.Include(x => x.BienThes).ThenInclude(bt => bt.HinhAnh).FirstOrDefault(x => x.MaSP == id);
+            if (chiTietSanPham == null)
+            {
+                return Content("Không tìm thấy sản phẩm!");
+            }
+            Console.WriteLine(chiTietSanPham);
+            return View(chiTietSanPham);
+        }
+        public IActionResult ThayDoiHinh(int maBT)
+        {
+            var anhBienThe = _context.HinhAnh.FirstOrDefault(x => x.MaBT == maBT);
+            return Json(new { imgUrl = anhBienThe.HinhAnhUrl });
         }
 
         public IActionResult Privacy()
@@ -46,11 +64,6 @@ namespace AssignmentC4.Areas.User.Controllers
         }
 
         public IActionResult Login()
-        {
-            return View();
-        }
-
-        public IActionResult ProductDetail()
         {
             return View();
         }

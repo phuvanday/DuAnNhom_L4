@@ -1,201 +1,205 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\",
+  "WorkspaceRootPath": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\services\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\services\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\addtowhistlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\addtowhistlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\women.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\women.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\ordercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\ordercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\men.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\men.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\db\\assignmentc4_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\db\\assignmentc4_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\services\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\services\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\admin\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\addtowhistlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\addtowhistlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\women.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\women.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\ordercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\ordercomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\men.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\men.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\login\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\login\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\login\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\login\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\login\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\login\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\areas\\user\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\areas\\user\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\phuvan.203\\onedrive\\desktop\\git_duannhom_l4\\duannhom_l4\\assignmentc4\\assignmentc4\\assignmentc4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|c:\\users\\giga\\source\\repos\\duannhom_l4\\assignmentc4\\assignmentc4\\assignmentc4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2AF0D4DA-3FBB-4947-A7EA-702901EE3C7D}|AssignmentC4\\AssignmentC4.csproj|solutionrelative:assignmentc4\\assignmentc4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -206,596 +210,673 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T12:54:23.194Z"
+              "DocumentIndex": 6,
+              "Title": "AssignmentC4_Context.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\DB\\AssignmentC4_Context.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\DB\\AssignmentC4_Context.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\DB\\AssignmentC4_Context.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\DB\\AssignmentC4_Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T10:18:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEkAAAARAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswB0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-16T16:07:58.926Z"
+              "WhenOpened": "2025-11-15T04:53:04.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T03:47:08.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cart.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Cart.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Cart.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Cart.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Cart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T04:59:49.201Z"
+              "WhenOpened": "2025-11-15T03:02:49.305Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Program.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Program.cs",
+              "RelativeToolTip": "AssignmentC4\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:08:03.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactModel.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Models\\ContactModel.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Models\\ContactModel.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Models\\ContactModel.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Models\\ContactModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:30:42.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:31:12.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA+wEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T14:29:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_LayoutUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Shared\\_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Shared\\_LayoutUser.cshtml",
               "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Shared\\_LayoutUser.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Shared\\_LayoutUser.cshtml",
               "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Shared\\_LayoutUser.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-15T03:06:52.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T12:48:04.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAASwEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T12:28:24.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "EmailHelper.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Services\\EmailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Services\\EmailHelper.cs",
               "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Services\\EmailHelper.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Services\\EmailHelper.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Services\\EmailHelper.cs",
               "RelativeToolTip": "AssignmentC4\\Areas\\User\\Services\\EmailHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T12:30:01.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAADEAAAAAAAAAAAAiwKQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-16T16:54:35.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvywAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T15:58:50.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Services\\EmailService.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T12:30:19.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ContactModel.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Models\\ContactModel.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Models\\ContactModel.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Models\\ContactModel.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Models\\ContactModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T12:30:42.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T12:31:12.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T03:07:53.88Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAOsAAAAAAAAAAAAiwBYBAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T03:02:49.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T03:44:25.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:00:25.069Z"
+              "WhenOpened": "2025-11-18T12:30:01.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ReportController.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ReportController.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\ReportController.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ReportController.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\ReportController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:00:53.651Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAASwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T12:28:24.372Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\BrandController.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\BrandController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA4wEIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T15:59:39.293Z"
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\appsettings.json",
+              "RelativeDocumentMoniker": "AssignmentC4\\appsettings.json",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\appsettings.json",
+              "RelativeToolTip": "AssignmentC4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T15:25:38.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T12:48:04.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Cart.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Cart.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T04:59:49.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T03:47:08.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAIBJwEkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T16:07:58.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T12:54:23.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T16:54:35.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvywAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T15:58:10.031Z"
+              "WhenOpened": "2025-11-16T15:58:50.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Services\\EmailService.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T12:30:19.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T09:21:22.744Z"
+              "WhenOpened": "2025-11-15T03:07:53.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAIBJwFAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-16T14:29:45.404Z"
+              "WhenOpened": "2025-11-15T03:44:25.836Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Program.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Program.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Program.cs",
-              "RelativeToolTip": "AssignmentC4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T03:08:03.448Z"
+              "WhenOpened": "2025-11-16T16:00:25.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:00:53.651Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\appsettings.json",
-              "RelativeDocumentMoniker": "AssignmentC4\\appsettings.json",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\appsettings.json",
-              "RelativeToolTip": "AssignmentC4\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-16T15:25:38.178Z"
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T15:59:39.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "NewsController.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\NewsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:01:16.53Z"
+              "WhenOpened": "2025-11-16T15:58:10.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "admin.css",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\wwwroot\\css\\admin.css",
-              "RelativeDocumentMoniker": "AssignmentC4\\wwwroot\\css\\admin.css",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\wwwroot\\css\\admin.css",
-              "RelativeToolTip": "AssignmentC4\\wwwroot\\css\\admin.css",
-              "ViewState": "AgIAALoAAAAAAAAAAAAqwPEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-18T08:55:42.482Z"
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T09:21:22.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-16T16:08:59.746Z"
+              "WhenOpened": "2025-11-16T14:29:45.404Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-16T16:41:35.813Z"
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:01:16.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:06:51.132Z"
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "AssignmentC4\\wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "AssignmentC4\\wwwroot\\css\\admin.css",
+              "ViewState": "AgIAALoAAAAAAAAAAAAqwPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-18T08:55:42.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\Account.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Account.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\Account.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:06:17.293Z"
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T16:08:59.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Contact.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\Contact.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:05:51.584Z"
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Views\\Brand\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T16:41:35.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "News.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\News.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\News.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\News.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\News.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA3wCsAAAABAAAAAAAAAA==",
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:05:18.064Z"
+              "WhenOpened": "2025-11-16T16:06:51.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Order.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\Order.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAA4wFYAAAABAAAAAAAAAA==",
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Account.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\Account.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:04:45.935Z"
+              "WhenOpened": "2025-11-16T16:06:17.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Brand.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Contact.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\Contact.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:04:01.725Z"
+              "WhenOpened": "2025-11-16T16:05:51.584Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Product.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\Product.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\News.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\News.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\News.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\News.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:03:30.678Z"
+              "WhenOpened": "2025-11-16T16:05:18.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Order.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\Order.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T16:02:05.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T03:41:26.524Z"
+              "WhenOpened": "2025-11-16T16:04:45.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "AddToWhistList.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\AddToWhistList.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\AddToWhistList.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\AddToWhistList.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\AddToWhistList.cshtml",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAJgAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T05:06:57.407Z"
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Brand.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:04:01.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Models\\Product.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Models\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:03:30.678Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "Women.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Women.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Women.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Women.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Women.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T03:31:29.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ProductDetail.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\ProductDetail.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\ProductDetail.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\ProductDetail.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\ProductDetail.cshtml",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAvwCMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T04:53:04.693Z"
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\Admin\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:02:05.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "OrderComplete.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\OrderComplete.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\OrderComplete.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\OrderComplete.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\OrderComplete.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T05:11:12.588Z"
+              "WhenOpened": "2025-11-15T03:41:26.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddToWhistList.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\AddToWhistList.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\AddToWhistList.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\AddToWhistList.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\AddToWhistList.cshtml",
+              "ViewState": "AgIAAJwAAAAAAAAAAIBJwJgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T05:06:57.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "Men.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Men.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Men.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Men.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Men.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Title": "Women.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Women.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Women.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Women.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Women.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T03:12:48.154Z"
+              "WhenOpened": "2025-11-15T03:31:29.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
-              "Title": "Checkout.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Checkout.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Checkout.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Checkout.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Checkout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Title": "OrderComplete.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\OrderComplete.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\OrderComplete.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\OrderComplete.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\OrderComplete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T04:57:59.267Z"
+              "WhenOpened": "2025-11-15T05:11:12.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T14:29:34.389Z"
+              "Title": "Men.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Men.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Men.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Men.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Men.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T03:12:48.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T03:46:15.616Z"
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Home\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Home\\Checkout.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Home\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T04:57:59.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
-              "Title": "changePassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\changePassword.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Login\\changePassword.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\changePassword.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Login\\changePassword.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T04:49:40.17Z"
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:46:15.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
-              "Title": "forgotPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\forgotPassword.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Login\\forgotPassword.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\forgotPassword.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Login\\forgotPassword.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Title": "changePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\changePassword.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Login\\changePassword.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\changePassword.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Login\\changePassword.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T03:56:52.462Z"
+              "WhenOpened": "2025-11-15T04:49:40.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 47,
-              "Title": "register.cshtml",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\register.cshtml",
-              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Login\\register.cshtml",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\register.cshtml",
-              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Login\\register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Title": "forgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\forgotPassword.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Login\\forgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\forgotPassword.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Login\\forgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-15T03:54:01.922Z"
+              "WhenOpened": "2025-11-15T03:56:52.462Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 48,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\register.cshtml",
+              "RelativeDocumentMoniker": "AssignmentC4\\Areas\\User\\Views\\Login\\register.cshtml",
+              "ToolTip": "C:\\Users\\GIGA\\source\\repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\Areas\\User\\Views\\Login\\register.cshtml",
+              "RelativeToolTip": "AssignmentC4\\Areas\\User\\Views\\Login\\register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T03:54:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "AssignmentC4.csproj",
-              "DocumentMoniker": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\AssignmentC4.csproj",
+              "DocumentMoniker": "C:\\Users\\GIGA\\Source\\Repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\AssignmentC4.csproj",
               "RelativeDocumentMoniker": "AssignmentC4\\AssignmentC4.csproj",
-              "ToolTip": "C:\\Users\\PhuVan.203\\OneDrive\\Desktop\\Git_DuAnNhom_L4\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\AssignmentC4.csproj",
+              "ToolTip": "C:\\Users\\GIGA\\Source\\Repos\\DuAnNhom_L4\\AssignmentC4\\AssignmentC4\\AssignmentC4.csproj",
               "RelativeToolTip": "AssignmentC4\\AssignmentC4.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-15T03:00:03.927Z"
+              "WhenOpened": "2025-11-15T03:00:03.927Z",
+              "EditorCaption": ""
             }
           ]
         }
