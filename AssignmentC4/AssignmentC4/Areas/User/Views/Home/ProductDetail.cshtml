@@ -1,128 +1,237 @@
 ﻿@model Product
 
 <style>
-    .tick {
-        display: none;
-    }
+	.tick {
+		display: none;
+	}
 
-    .color-item.selected .tick {
-        display: flex;
-    }
+	.color-item.selected .tick {
+		display: flex;
+	}
 </style>
-
 <div class="breadcrumbs">
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <p class="bread"><span><a asp-action="Index">Trang chủ</a></span> / <span>Chi tiết sản phẩm</span></p>
-            </div>
-        </div>
-    </div>
+	<div class="container">
+		<div class="row">
+			<div class="col">
+				<p class="bread"><span><a asp-action="Index">Trang chủ</a></span> / <span>Chi tiết sản phẩm</span></p>
+			</div>
+		</div>
+	</div>
 </div>
+
 
 <div class="colorlib-product">
-    <div class="container">
-        <div class="row row-pb-lg product-detail-wrap">
-            <div class="col-sm-8">
-                <div class="product-entry border">
-                    <a href="#" class="prod-img">
-                        <img src="/@Model.HinhAnhDaiDien" class="img-fluid" id="img" alt="@Model.TenSanPham">
-                    </a>
-                </div>
-            </div>
+	<div class="container">
+		<div class="row row-pb-lg product-detail-wrap">
+			<div class="col-sm-8">
+				<div class="owl-carousel" id="carousel">
+					<div class="item">
+						<div class="product-entry border">
+							<a href="#" class="prod-img">
+								<img src="/@Model.HinhAnhDaiDien" class="img-fluid" id="img" alt="Origin">
+							</a>
+						</div>
+					</div>
 
-            <div class="col-sm-4">
-                <div class="product-desc">
-                    <h3>@Model.TenSanPham</h3>
-                    <p class="price">
-                        <span>@Model.GiaCoBan.ToString("N0")</span>
-                    </p>
-                    <p>@Model.MoTa</p>
+					@foreach (var bt in Model.BienThes)
+					{
+						var img = bt.HinhAnh.FirstOrDefault();
+						if (img != null)
+						{
+							<div class="item" data-mabt="@bt.MaBT">
+								<div class="product-entry border d-flex justify-content-center align-content-center" style="width:100%; height: 45rem">
+									<a href="#" class="prod-img">
+										<img src="/@img.Url" class="img-fluid" alt="@bt.MauSac" style="height:46rem">
+									</a>
+								</div>
+							</div>
+						}
+					}
+				</div>
 
-                    <div class="size-wrap">
-                        <div class="block-26 mb-2">
-                            <h4>Loại Giày</h4>
-                            <p>@Model.LoaiGiay</p>
-                        </div>
-                        <div class="block-26 mb-4">
-                            <h4>Thương Hiệu</h4>
-                            <p>@Model.ThuongHieu</p>
-                        </div>
-                    </div>
+			</div>
+			<div class="col-sm-4">
+				<div class="product-desc">
+					<h3>@Model.TenSanPham</h3>
+					<p class="price">
+						<span>@Model.GiaCoBan.ToString("N0")</span>
 
-                    <div class="input-group mb-4">
-                        <span class="input-group-btn">
-                            <button id="giamSL" type="button" class="quantity-left-minus btn" data-type="minus" data-field="">
-                                <i class="icon-minus2"></i>
-                            </button>
-                        </span>
-                        <input id="soLuong" type="text" name="quantity" class="form-control input-number" value="1" min="1" max="100">
-                        <span class="input-group-btn ml-1">
-                            <button id="tangSL" type="button" class="quantity-right-plus btn" data-type="plus" data-field="">
-                                <i class="icon-plus2"></i>
-                            </button>
-                        </span>
-                    </div>
+					</p>
+					<p>@Model.MoTa</p>
+					<div class="size-wrap">
+						<div class="block-26 mb-2">
+							<h4>SISE</h4>
+							<ul>
+								@foreach (var item in Model.BienThes)
+								{
+									<li><a href="#">@item.KichCo</a></li>
+								}
+							</ul>
+						</div>
+						<div class="block-26 mb-4">
+							<h4>MÀU</h4>
+							<ul>
+								<li data-id="origin" class="color-item">
+									<span class="tick">&#10003;</span>
+									<a href="#" style="color:inherit !important;">Origin</a>
+								</li>
+								@foreach (var item in Model.BienThes)
+								{
+									<li data-id="@item.MaBT" class="color-item"
+										style="background-color:@GetColor(item.MauSac);
+										   color:@MauChu(GetColor(item.MauSac)) !important;
+										   border:1px solid black;">
+										<span class="tick">&#10003;</span>
+										<a href="#" style="color:inherit !important;">@item.MauSac</a>
+									</li>
+								}
+							</ul>
+						</div>
+					</div>
+					<div class="input-group mb-4">
+						<span class="input-group-btn">
+							<button id="giamSL" type="button" class="quantity-left-minus btn" data-type="minus" data-field="">
+								<i class="icon-minus2"></i>
+							</button>
+						</span>
+						<input id="soLuong" type="text" id="quantity" name="quantity" class="form-control input-number" value="1" min="1" max="100">
+						<span class="input-group-btn ml-1">
+							<button id="tangSL" type="button" class="quantity-right-plus btn" data-type="plus" data-field="">
+								<i class="icon-plus2"></i>
+							</button>
+						</span>
+					</div>
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<p class="addtocart"><a href="cart.html" class="btn btn-primary btn-addtocart"><i class="icon-shopping-cart"></i> Thêm vào giỏ</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
-                    <div class="row">
-                        <div class="col-sm-12 text-center">
-                            <p class="addtocart">
-                                <a href="cart.html" class="btn btn-primary btn-addtocart">
-                                    <i class="icon-shopping-cart"></i> Thêm vào giỏ
-                                </a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="row">
+					<div class="col-md-12 pills">
+						<div class="bd-example bd-example-tabs">
+							<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
 
-        <div class="row">
-            <div class="col-sm-12">
-                <div class="row">
-                    <div class="col-md-12 pills">
-                        <div class="bd-example bd-example-tabs">
-                            <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-                                <li class="nav-item">
-                                    <a class="nav-link active" id="pills-description-tab" data-toggle="pill" href="#pills-description" role="tab" aria-controls="pills-description" aria-expanded="true">Mô tả</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" id="pills-manufacturer-tab" data-toggle="pill" href="#pills-manufacturer" role="tab" aria-controls="pills-manufacturer" aria-expanded="true">Nhà sản xuất</a>
-                                </li>
-                            </ul>
+								<li class="nav-item">
+									<a class="nav-link active" id="pills-description-tab" data-toggle="pill" href="#pills-description" role="tab" aria-controls="pills-description" aria-expanded="true">Mô tả</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" id="pills-manufacturer-tab" data-toggle="pill" href="#pills-manufacturer" role="tab" aria-controls="pills-manufacturer" aria-expanded="true">Nhà sản xuất</a>
+								</li>
 
-                            <div class="tab-content" id="pills-tabContent">
-                                <div class="tab-pane border fade show active" id="pills-description" role="tabpanel" aria-labelledby="pills-description-tab">
-                                    <p>@Model.MoTa</p>
-                                </div>
+							</ul>
 
-                                <div class="tab-pane border fade" id="pills-manufacturer" role="tabpanel" aria-labelledby="pills-manufacturer-tab">
-                                    <p>@Model.ThuongHieu</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+							<div class="tab-content" id="pills-tabContent">
+								<div class="tab-pane border fade show active" id="pills-description" role="tabpanel" aria-labelledby="pills-description-tab">
+									<p>@Model.MoTa</p>
+								</div>
+
+								<div class="tab-pane border fade" id="pills-manufacturer" role="tabpanel" aria-labelledby="pills-manufacturer-tab">
+									<p>@Model.ThuongHieu</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
+@functions {
+    public string GetColor(string mauSac)
+    {
+        switch (mauSac)
+        {
+            case "Đen":
+                return "black";
+            case "Trắng":
+                return "white";
+            case "Đỏ":
+                return "red";
+            case "Xanh":
+                return "blue";
+            case "Vàng":
+                return "yellow";
+            default:
+                return "gray";
+        }
+    }
+    public string MauChu(string mauSac)
+    {
+        if (mauSac == "white")
+            return "black";
 
+        return "white";
+    }
+
+}
 <script>
-    let soLuong = document.getElementById("soLuong");
-    soLuong.addEventListener("blur", function () {
-        let value = parseInt(this.value);
-        if (isNaN(value) || value < 1) {
-            this.value = 1;
+    let soLuong=document.getElementById("soLuong");
+    soLuong.addEventListener("blur",function(){
+        let value=parseInt(this.value);
+        if(isNaN(value)||value<1)
+        {
+            this.value=1;
         }
     });
+    document.addEventListener('DOMContentLoaded', function() {
 
-    document.getElementById("tangSL").addEventListener("click", function () {
-        soLuong.value++;
+        var slideCount = document.querySelectorAll('#carousel .item').length;
+
+        var carousel = $("#carousel");
+
+        carousel.owlCarousel({
+            items: 1,
+            loop: slideCount > 1,
+            nav: true,
+            dots: true
+        });
+
+        var colorItems = document.querySelectorAll('.color-item');
+
+        colorItems.forEach(item => {
+            item.addEventListener('click', function(e) {
+                e.preventDefault();
+
+                document.querySelectorAll('.color-item .tick')
+                    .forEach(t => t.style.display = 'none');
+
+                this.querySelector('.tick').style.display = 'inline';
+
+                var id = this.getAttribute('data-id');
+                var realSlides = carousel.find('.owl-item:not(.cloned) .item');
+
+                // ❗ Nếu chỉ có 1 ảnh: auto nhảy về index 0, không lỗi
+                if (realSlides.length === 1) {
+                    carousel.trigger('to.owl.carousel', [0, 300]);
+                    return;
+                }
+
+                var index = 0;
+
+                realSlides.each(function(i) {
+                    if ($(this).attr("data-mabt") == id) {
+                        index = i;
+                        return false;
+                    }
+                });
+
+                carousel.trigger('to.owl.carousel', [index, 300]);
+
+            });
+        });
     });
 
-    document.getElementById("giamSL").addEventListener("click", function () {
-        if (soLuong.value > 1) {
+    document.getElementById("tangSL").addEventListener("click",function(){
+        soLuong.value++;
+    });
+    document.getElementById("giamSL").addEventListener("click",function(){
+        if(soLuong.value>1){
             soLuong.value--;
         }
     });

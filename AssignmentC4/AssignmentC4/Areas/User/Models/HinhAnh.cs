@@ -8,8 +8,9 @@ namespace AssignmentC4.Areas.User.Models
     {
         [Key]
         public int MaHA { get; set; }
-
+        [ForeignKey("MaBT")]
         public int MaBT { get; set; } // foreign key
+        [Column("HinhAnh")]
         public string Url { get; set; }
 
         // Navigation

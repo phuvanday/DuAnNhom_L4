@@ -9,13 +9,12 @@ namespace AssignmentC4.Areas.User.Models
     {
         [Key]
         public int MaBT { get; set; }
-
         public int MaSP { get; set; }
-
-        public string KichCo { get; set; }
-        public string MauSac { get; set; }
-
-        // Navigation
+        public string? MauSac { get; set; }
+        public string? KichCo { get; set; }
+        public int SoLuong { get; set; }
+        public decimal Gia { get; set; }
+        [ForeignKey("MaSP")]
         public virtual Product Product { get; set; }
         public virtual ICollection<HinhAnh> HinhAnh { get; set; }
     }
