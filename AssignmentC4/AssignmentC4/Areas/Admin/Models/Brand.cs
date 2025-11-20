@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using AssignmentC4.Areas.User.Models;
+using System.ComponentModel.DataAnnotations;
 
 namespace AssignmentC4.Areas.Admin.Models
 {

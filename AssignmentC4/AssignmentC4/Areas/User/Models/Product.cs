@@ -1,9 +1,8 @@
-﻿using AssignmentC4.Areas.User.Models;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace AssignmentC4.Areas.Admin.Models
+namespace AssignmentC4.Areas.User.Models
 {
     [Table("SanPham")]
     public class Product

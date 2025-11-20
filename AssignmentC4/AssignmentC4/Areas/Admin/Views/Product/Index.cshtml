@@ -1,7 +1,10 @@
-﻿@model IEnumerable<AssignmentC4.Areas.Admin.Models.Product>
+﻿@using AssignmentC4.Areas.User.Models
+@model IEnumerable<Product>
+
 @{
     ViewData["Title"] = "Quản Lý Sản Phẩm";
 }
+
 @if (TempData["Success"] != null)
 {
     <div class="alert alert-success alert-dismissible fade show" role="alert">
@@ -10,24 +13,22 @@
     </div>
 }
 
-
 <div class="row mb-3">
     <div class="col-md-6">
         <h2><i class="fas fa-box"></i> Quản Lý Sản Phẩm</h2>
     </div>
-    <div class="col-md-6 text-right">
+    <div class="col-md-6 text-end">
         <a asp-area="Admin" asp-controller="Product" asp-action="Create" class="btn btn-primary">
             <i class="fas fa-plus"></i> Thêm Sản Phẩm Mới
         </a>
-
     </div>
 </div>
 
 <div class="card shadow">
     <div class="card-body">
         <div class="table-responsive">
-            <table class="table table-bordered table-hover">
-                <thead class="thead-light">
+            <table class="table table-bordered table-hover align-middle">
+                <thead class="table-light text-center">
                     <tr>
                         <th>ID</th>
                         <th>Hình Ảnh</th>
@@ -38,6 +39,7 @@
                         <th>Tồn Kho</th>
                         <th>Trạng Thái</th>
                         <th>Thao Tác</th>
+                        <th>Biến Thể</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -46,31 +48,55 @@
                         @foreach (var item in Model)
                         {
                             <tr>
-                                <td>@item.MaSP</td>
-                                <td>
-                                    <img src="@item.ImageUrl" alt="@item.Name" style="width: 50px; height: 50px; object-fit: cover;">
+                                <td class="text-center">@item.MaSP</td>
+                                <td class="text-center">
+                                    <img src="@item.ImageUrl" alt="@item.Name" style="width: 50px; height: 50px; object-fit: cover;" />
                                 </td>
                                 <td>@item.Name</td>
                                 <td>@item.Code</td>
                                 <td>@item.BrandName</td>
                                 <td>@item.Price.ToString("N0") VNĐ</td>
-                                <td>
-                                    <span class="badge @(item.Stock > 10 ? "badge-success" : "badge-danger")">
+                                <td class="text-center">
+                                    <span class="badge @(item.Stock > 10 ? "bg-success" : "bg-danger")">
                                         @item.Stock
                                     </span>
                                 </td>
-                                <td>
-                                    <span class="badge @(item.IsActive ? "badge-success" : "badge-secondary")">
+                                <td class="text-center">
+                                    <span class="badge @(item.IsActive ? "bg-success" : "bg-secondary")">
                                         @(item.IsActive ? "Hoạt động" : "Ngừng bán")
                                     </span>
                                 </td>
-                                <td>
-                                    <a asp-action="Edit" asp-route-id="@item.MaSP" class="btn btn-sm btn-warning">
+                                <td class="text-center">
+                                    <a asp-action="Edit" asp-route-id="@item.MaSP" class="btn btn-sm btn-warning me-1">
                                         <i class="fas fa-edit"></i>
                                     </a>
                                     <a asp-action="Delete" asp-route-id="@item.MaSP" class="btn btn-sm btn-danger">
                                         <i class="fas fa-trash"></i>
                                     </a>
+                                </td>
+                                <td>
+                                    @* Hiển thị biến thể *@
+                                    @if (item.BienThes != null && item.BienThes.Any())
+                                    {
+                                        <ul class="list-unstyled mb-0">
+                                            @foreach (var bt in item.BienThes)
+                                            {
+                                                <li class="mb-1">
+                                                    <strong>@bt.MauSac</strong>
+                                                    @if (bt.HinhAnh != null && bt.HinhAnh.Any())
+                                                    {
+                                                        <img src="@bt.HinhAnh.FirstOrDefault().Url"
+                                                             alt="@bt.MauSac"
+                                                             style="width:30px; height:30px; object-fit:cover; margin-left:5px;" />
+                                                    }
+                                                </li>
+                                            }
+                                        </ul>
+                                    }
+                                    else
+                                    {
+                                        <span class="text-muted">Không có biến thể</span>
+                                    }
                                 </td>
                             </tr>
                         }
@@ -78,7 +104,7 @@
                     else
                     {
                         <tr>
-                            <td colspan="9" class="text-center">Chưa có sản phẩm nào</td>
+                            <td colspan="10" class="text-center">Chưa có sản phẩm nào</td>
                         </tr>
                     }
                 </tbody>

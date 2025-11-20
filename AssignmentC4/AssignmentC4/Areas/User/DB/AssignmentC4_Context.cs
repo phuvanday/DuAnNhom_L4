@@ -8,7 +8,7 @@ namespace AssignmentC4.Areas.User.DB
     {
         public AssignmentC4_Context(DbContextOptions<AssignmentC4_Context> options) : base(options) { }
 
-        public DbSet<Product> Products { get; set; }  // Product là chính
+        public DbSet<Product> Products { get; set; }
         public DbSet<BienThe> BienThe { get; set; }
         public DbSet<HinhAnh> HinhAnh { get; set; }
         public DbSet<DanhMuc> DanhMucs { get; set; }

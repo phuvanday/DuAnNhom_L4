@@ -1,5 +1,5 @@
-﻿using AssignmentC4.Areas.Admin.Models;
-using AssignmentC4.Areas.User.DB;
+﻿using AssignmentC4.Areas.User.DB;
+using AssignmentC4.Areas.User.Models;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
