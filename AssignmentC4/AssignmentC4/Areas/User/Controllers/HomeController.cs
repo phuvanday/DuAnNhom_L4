@@ -19,12 +19,12 @@ namespace AssignmentC4.Areas.User.Controllers
         // ===== CÁC ACTION GỐC =====
         public IActionResult Index()
         {
-            var dsSanPham = _context.SanPham.ToList();
+            var dsSanPham = _context.Products.ToList();
             return View(dsSanPham);
         }
         public IActionResult ProductDetail(int id)
         {
-            var chiTietSanPham = _context.SanPham.Include(x => x.BienThes).ThenInclude(bt => bt.HinhAnh).FirstOrDefault(x => x.MaSP == id);
+            var chiTietSanPham = _context.Products.Include(x => x.BienThes).ThenInclude(bt => bt.HinhAnh).FirstOrDefault(x => x.MaSP == id);
             if (chiTietSanPham == null)
             {
                 return Content("Không tìm thấy sản phẩm!");
@@ -35,7 +35,8 @@ namespace AssignmentC4.Areas.User.Controllers
         public IActionResult ThayDoiHinh(int maBT)
         {
             var anhBienThe = _context.HinhAnh.FirstOrDefault(x => x.MaBT == maBT);
-            return Json(new { imgUrl = anhBienThe.HinhAnhUrl });
+            return Json(new { imgUrl = anhBienThe.Url });
+
         }
 
         public IActionResult Privacy()

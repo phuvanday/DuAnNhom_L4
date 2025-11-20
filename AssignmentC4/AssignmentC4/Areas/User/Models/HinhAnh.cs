@@ -3,14 +3,16 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AssignmentC4.Areas.User.Models
 {
+    [Table("HinhAnh")]
     public class HinhAnh
     {
         [Key]
-        public int MaHA {  get; set; }
-        [ForeignKey("MaBT")]
-        public int MaBT {  get; set; }
-        [Column("HinhAnh")]
-        public string? HinhAnhUrl {  get; set; }
-        public BienThe BienThe { get; set; }
+        public int MaHA { get; set; }
+
+        public int MaBT { get; set; } // foreign key
+        public string Url { get; set; }
+
+        // Navigation
+        public virtual BienThe BienThe { get; set; }
     }
 }

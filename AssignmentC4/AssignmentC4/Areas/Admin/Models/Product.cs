@@ -1,52 +1,63 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using AssignmentC4.Areas.User.Models;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AssignmentC4.Areas.Admin.Models
 {
+    [Table("SanPham")]
     public class Product
     {
-        public int Id { get; set; }
+        [Key]
+        public int MaSP { get; set; }
 
-        [Required(ErrorMessage = "Vui lòng nhập tên sản phẩm")]
+        [Display(Name = "Danh mục")]
+        public int? MaDM { get; set; }
+
+        [Required(ErrorMessage = "Tên sản phẩm không được để trống")]
+        [Display(Name = "Tên sản phẩm")]
+        [StringLength(400)]
+        public string TenSanPham { get; set; }
+
+        [Required(ErrorMessage = "Giá sản phẩm không được để trống")]
+        [Display(Name = "Giá cơ bản")]
+        [Column(TypeName = "decimal(18,2)")]
+        public decimal GiaCoBan { get; set; }
+
+        [Required(ErrorMessage = "Số lượng không được để trống")]
+        [Display(Name = "Số lượng")]
+        public int SoLuong { get; set; }
+
+        [Display(Name = "Hình ảnh đại diện")]
+        [StringLength(510)]
+        public string? HinhAnhDaiDien { get; set; }
+
+        [Display(Name = "Loại giày")]
+        [StringLength(100)]
+        public string LoaiGiay { get; set; }
+
+        [Required(ErrorMessage = "Thương hiệu không được để trống")]
+        [Display(Name = "Thương hiệu")]
         [StringLength(200)]
-        public string Name { get; set; }
+        public string ThuongHieu { get; set; }
 
-        [Required(ErrorMessage = "Vui lòng nhập mã sản phẩm")]
-        [StringLength(50)]
-        public string Code { get; set; }
+        [Display(Name = "Mô tả")]
+        public string MoTa { get; set; }
 
-        [Required(ErrorMessage = "Vui lòng chọn hãng giày")]
-        public int BrandId { get; set; }
+        // Navigation property
+        public virtual ICollection<BienThe> BienThes { get; set; }
 
-        public string BrandName { get; set; }
+        // Helper properties để hiển thị trong view
+        [NotMapped]
+        public string ImageUrl => string.IsNullOrEmpty(HinhAnhDaiDien)
+            ? "/images/no-image.jpg"
+            : $"/images/{HinhAnhDaiDien}";
 
-        [Required(ErrorMessage = "Vui lòng nhập giá")]
-        [Range(0, double.MaxValue, ErrorMessage = "Giá phải lớn hơn 0")]
-        public decimal Price { get; set; }
-
-        [Range(0, 100, ErrorMessage = "Giảm giá từ 0-100%")]
-        public int Discount { get; set; }
-
-        [Required(ErrorMessage = "Vui lòng nhập số lượng")]
-        [Range(0, int.MaxValue, ErrorMessage = "Số lượng phải lớn hơn hoặc bằng 0")]
-        public int Stock { get; set; }
-
-        public string Description { get; set; }
-
-        public string ImageUrl { get; set; }
-
-        [Required(ErrorMessage = "Vui lòng chọn danh mục")]
-        public string Category { get; set; } // Nam, Nữ, Trẻ em
-
-        public string Size { get; set; } // 38,39,40,41,42
-
-        public string Color { get; set; }
-
-        public bool IsActive { get; set; } = true;
-
-        public bool IsFeatured { get; set; } // Sản phẩm nổi bật
-
-        public DateTime CreatedDate { get; set; } = DateTime.Now;
-
-        public DateTime? UpdatedDate { get; set; }
+        [NotMapped] public string Name => TenSanPham;
+        [NotMapped] public decimal Price => GiaCoBan;
+        [NotMapped] public int Stock => SoLuong;
+        [NotMapped] public string BrandName => ThuongHieu;
+        [NotMapped] public bool IsActive => SoLuong > 0;
+        [NotMapped] public string Code => $"SP{MaSP:D5}";
     }
 }
