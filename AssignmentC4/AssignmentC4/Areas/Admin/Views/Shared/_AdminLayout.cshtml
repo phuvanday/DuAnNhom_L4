@@ -31,11 +31,6 @@
                         <i class="fas fa-box"></i> Quản Lý Sản Phẩm
                     </a>
                 </li>
-                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Brand" ? "active" : "")">
-                    <a asp-area="Admin" asp-controller="Brand" asp-action="Index">
-                        <i class="fas fa-tag"></i> Quản Lý Hãng Giày
-                    </a>
-                </li>
                 <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Order" ? "active" : "")">
                     <a asp-area="Admin" asp-controller="Order" asp-action="Index">
                         <i class="fas fa-shopping-cart"></i> Quản Lý Đơn Hàng
@@ -44,16 +39,6 @@
                 <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Report" ? "active" : "")">
                     <a asp-area="Admin" asp-controller="Report" asp-action="Index">
                         <i class="fas fa-chart-line"></i> Báo Cáo Doanh Thu
-                    </a>
-                </li>
-                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "News" ? "active" : "")">
-                    <a asp-area="Admin" asp-controller="News" asp-action="Index">
-                        <i class="fas fa-newspaper"></i> Quản Lý Tin Tức
-                    </a>
-                </li>
-                <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Contact" ? "active" : "")">
-                    <a asp-area="Admin" asp-controller="Contact" asp-action="Index">
-                        <i class="fas fa-envelope"></i> Liên Hệ
                     </a>
                 </li>
                 <li class="@(ViewContext.RouteData.Values["controller"]?.ToString() == "Account" ? "active" : "")">
@@ -155,6 +140,7 @@
                 console.log("Menu clicked:", $(this).attr('href'));
             });
         });
+
     </script>
 
     @await RenderSectionAsync("Scripts", required: false)

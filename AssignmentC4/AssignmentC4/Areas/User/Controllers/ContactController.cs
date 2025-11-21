@@ -1,5 +1,5 @@
-﻿using AssignmentC4.Areas.User.Models;
-using AssignmentC4.Areas.User.Services;
+﻿using AssignmentC4.Areas.User.Services;
+using AssignmentC4.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Threading.Tasks;

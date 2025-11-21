@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace AssignmentC4.Areas.User.Models
+namespace AssignmentC4.Models
 {
     public class ContactModel
     {
