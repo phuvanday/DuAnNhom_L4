@@ -17,12 +17,28 @@ namespace AssignmentC4.Areas.User.Controllers
             _context = context;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(string keyword,int page = 1)
         {
-            var dsSanPham = _context.Products
+            int pageSize = 16;
+            var query = _context.Products
                 .Include(p => p.Category)
                 .Include(p => p.Variants).ThenInclude(v => v.Images)
+                .OrderBy(p => p.MaSP)
+                .AsQueryable();
+            if (!string.IsNullOrEmpty(keyword))
+            {
+                query = query.Where(p => p.TenSanPham.Contains(keyword));
+            }
+            int totalProducts = query.Count();
+            int totalPages = (int)Math.Ceiling(totalProducts / (double)pageSize);
+            var dsSanPham = query
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
                 .ToList();
+
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPage = totalPages;
+            ViewBag.Keyword = keyword;
             return View(dsSanPham);
         }
 
@@ -37,15 +53,6 @@ namespace AssignmentC4.Areas.User.Controllers
                 return Content("Không tìm thấy sản phẩm!");
 
             return View(chiTietSanPham);
-        }
-
-        public IActionResult ThayDoiHinh(int maBT)
-        {
-            var anhBienThe = _context.Images.FirstOrDefault(x => x.MaBT == maBT);
-            if (anhBienThe == null)
-                return Json(new { imgUrl = "/images/no-image.jpg" });
-
-            return Json(new { imgUrl = "/images/" + anhBienThe.HinhAnh });
         }
 
         public IActionResult Privacy() => View();

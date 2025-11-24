@@ -20,8 +20,8 @@
 						</div>
 					</div>
 				</div>
-			<li />
-		</ul>
+	</div>
+	</li>
 	</div>
 </aside>
 <div class="colorlib-intro">
@@ -38,7 +38,7 @@
 		<div class="row">
 			<div class="col-sm-6 text-center">
 				<div class="featured">
-					<a href="#" class="featured-img" style="background-image: url(images/men.jpg);"></a>
+					<a href="#" class="featured-img" style="background-image: url('@Url.Content("~/images/men.jpg")')"></a>
 					<div class="desc">
 						<h2><a href="#">Xem bộ sưu tập nam</a></h2>
 					</div>
@@ -46,7 +46,7 @@
 			</div>
 			<div class="col-sm-6 text-center">
 				<div class="featured">
-					<a href="#" class="featured-img" style="background-image: url(images/women.jpg);"></a>
+					<a href="#" class="featured-img" style="background-image: url('@Url.Content("~/images/women.jpg")')"></a>
 					<div class="desc">
 						<h2><a href="#">Xem bộ sưu tập nữ</a></h2>
 					</div>
@@ -63,7 +63,7 @@
 				<h2>Bán chạy nhất</h2>
 			</div>
 		</div>
-		<div class="row row-pb-md">
+		<div class="row row-pb-md" id="product-section">
 			@foreach (var items in Model)
 			{
 				<div class="col-lg-3 mb-4 text-center">
@@ -81,11 +81,31 @@
 				</div>
 			}
 		</div>
-		<div class="row">
-			<div class="col-md-12 text-center">
-				<p><a href="#" class="btn btn-primary btn-lg">Xem tất cả sản phẩm</a></p>
-			</div>
-		</div>
+		<nav>
+			<ul class="pagination justify-content-center mt-4">
+
+				<li class="page-item @(ViewBag.CurrentPage <= 1 ? "disabled" : "")">
+					<a class="page-link" href="@Url.Action("Index", new { page = ViewBag.CurrentPage - 1 })">
+						Previous
+					</a>
+				</li>
+
+				@for (int i = 1; i <= ViewBag.TotalPage; i++)
+				{
+					<li class="page-item @(ViewBag.CurrentPage == i ? "active" : "")">
+						<a class="page-link" href="@Url.Action("Index", new { page = i })#product-section">@i</a>
+					</li>
+				}
+
+				<li class="page-item @(ViewBag.CurrentPage >= ViewBag.TotalPage ? "disabled" : "")">
+					<a class="page-link" href="@Url.Action("Index", new { page = ViewBag.CurrentPage + 1 })">
+						Next
+					</a>
+				</li>
+
+			</ul>
+		</nav>
+
 	</div>
 </div>
 

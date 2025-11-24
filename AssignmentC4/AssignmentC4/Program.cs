@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AssignmentC4_Context>(option =>
-option.UseSqlServer(builder.Configuration.GetConnectionString("PhuVanConnection")));
+option.UseSqlServer(builder.Configuration.GetConnectionString("YolaConnection")));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
